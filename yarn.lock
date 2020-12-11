@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@11ty/eleventy-navigation@^0.1.1":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@11ty/eleventy-navigation/-/eleventy-navigation-0.1.6.tgz#26c1880494b99dd961efa51bdf866485a0adddde"
+  dependencies:
+    dependency-graph "^0.8.1"
+
 "@11ty/eleventy@^0.8.2":
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/@11ty/eleventy/-/eleventy-0.8.3.tgz#94c417f7b658e78ab5f9ce64b91ff32b4ae5de31"
@@ -746,6 +752,10 @@ dependency-graph@^0.8.0:
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/dependency-graph/-/dependency-graph-0.8.0.tgz#2da2d35ed852ecc24a5d6c17788ba57c3708755b"
 
+dependency-graph@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/dependency-graph/-/dependency-graph-0.8.1.tgz#9b8cae3aa2c7bd95ccb3347a09a2d1047a6c3c5a"
+
 dependency-tree@^6.3.0:
   version "6.5.0"
   resolved "https://registry.yarnpkg.com/dependency-tree/-/dependency-tree-6.5.0.tgz#666d6838c2d8eab0eeeb2e2d19eafcbdda336cde"
@@ -1414,8 +1424,8 @@ inherits@^2.0.3:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.4.tgz#0fa2c64f932917c3433a0ded55363aae37416b7c"
 
 ini@^1.3.4, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.7.tgz#a09363e1911972ea16d7a8851005d84cf09a9a84"
 
 invert-kv@^1.0.0:
   version "1.0.0"

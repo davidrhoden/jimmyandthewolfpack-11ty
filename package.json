@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidrhdoen/jimmyandthewolfpack/issues"
+    "url": "https://github.com/davidrhoden/jimmyandthewolfpack/issues"
   },
   "homepage": "https://jimmyandthewolfpack.com",
   "devDependencies": {
@@ -31,6 +31,7 @@
   "dependencies": {
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
-    "uglify-es": "^3.3.9"
+    "uglify-es": "^3.3.9",
+    "yarn": "^1.22.17"
   }
 }

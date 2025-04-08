@@ -2621,8 +2621,8 @@ requirejs-config-file@^3.1.1:
     stringify-object "^3.2.1"
 
 requirejs@^2.3.5:
-  version "2.3.6"
-  resolved "https://registry.npmjs.org/requirejs/-/requirejs-2.3.6.tgz"
+  version "2.3.7"
+  resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.7.tgz#0b22032e51a967900e0ae9f32762c23a87036bd0"
 
 requires-port@^1.0.0:
   version "1.0.0"

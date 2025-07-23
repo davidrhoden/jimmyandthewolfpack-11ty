@@ -22,13 +22,13 @@
   },
   "homepage": "https://jimmyandthewolfpack.com",
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.2",
     "@11ty/eleventy-navigation": "^0.1.1",
     "luxon": "^2.5.2",
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^5.0.2"
   },
   "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9",
